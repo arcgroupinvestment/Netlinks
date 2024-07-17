@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Nos réseaux sociaux </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 2rem;
+        }
+        .intro {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .intro h1 {
+            font-size: 2.5rem;
+        }
+        .intro p {
+            font-size: 1.2rem;
+        }
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+        }
+        .social-links a {
+            text-decoration: none;
+            color: #333;
+            font-size: 1.5rem;
+            transition: color 0.3s;
+        }
+        .social-links a:hover {
+            color: #007bff;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Opportunités d'Investissement avec ARC Group Investment</h1>
+    </header>
+    <div class="container">
+        <div class="intro">
+            <h1>Bienvenue chez Arc Group Investment</h1>
+            <p>**Arc Group Investment :** 🌟
+Arc Group Investment : Démocratiser l'Investissement Collectif et Innovant
+Nous vous proposons des plateformes d'investissement fiables et sécurisées.
+Nous vous connectons aux projets les plus prometteurs et innovants.
+Nous garantissons une communication claire et ouverte sur tous nos projets.
+Rentabilité :
+Nous visons des rendements attractifs pour maximiser vos investissements.
+
+📍📍 Nos Domaines : 📍📍
+Crowdfunding :
+Soutien réussi de plusieurs startups et entreprises technologiques avant leur entrée en bourse (IPO).
+
+Crowdlending :
+Financement de projets d'entreprise et de particuliers via des prêts sécurisés.
+
+Immobilier Tokenisé :
+Investissements fructueux dans des projets immobiliers innovants.
+
+Staking Crypto :
+Opportunités de staking à long terme en cryptomonnaies avec des rendements significatifs.
+
+Plus concretement il sèagit de quoi?
+
+**Technologie et Innovation :**
+"Investissez dans l'innovation technologique. 🚀 Participez au crowdfunding de startups et entreprises tech prometteuses, engagez-vous dans le crowdlending sécurisé, et profitez des opportunités de staking à long terme en cryptomonnaies. Rejoignez-nous pour construire l'avenir de la technologie. 🔧💡"
+
+**Diversification et Croissance :**
+"Explorez le crowdfunding dans les startups et entreprises technologiques, participez au crowdlending fiable, et bénéficiez de rendements attractifs grâce au staking en cryptos. 📈 Investissez intelligemment pour un futur prospère. 🌟"
+
+**Sécurité et Rentabilité :**
+"Chez Arc Group Investment, nous allions sécurité et rentabilité. 🛡️ Investissez dans des startups et entreprises technologiques innovantes via le crowdfunding, engagez-vous dans le crowdlending sur des plateformes sécurisées, et explorez les opportunités de staking à long terme en cryptomonnaies. 💼"
+
+**Futur Technologique :**
+"Votre porte d'entrée vers le futur technologique. 🌐 Participez au financement participatif des startups et entreprises tech, engagez-vous dans le crowdlending sécurisé, et profitez des opportunités de staking en cryptomonnaies pour des rendements à long terme. 💎"
+
+**Communauté d'Investisseurs Visionnaires :**
+"Rejoignez une communauté d'investisseurs visionnaires. 🌟 Soutenez les startups et entreprises technologiques via le crowdfunding, engagez-vous dans le crowdlending sécurisé, et maximisez vos investissements avec des opportunités de staking à long terme en cryptos. Ensemble, investissons dans le futur. 🤝"
+#Investissement #Crowdfunding #Startups #Crypto #Immobilier @Arcgroupinvestment
+------
+
+. Découvrez plus sur Nous et connectez-vous avec Nous via nos réseaux sociaux.</p>
+        </div>
+        <div class="social-links">
+            <a href="https://twitter.com/ArcGroupInvest" target="_blank">Twitter</a>
+            <a href="https://www.tiktok.com/@arcgroupinvestment" target="_blank">TikTok</a>
+            <a href="https://discord.com/invite/ArcGroupInvestment" target="_blank">Discord</a>
+            <a href="https://wa.me/+22893013591" target="_blank">WhatsApp</a>
+           <a href="Coming Soon" target="_blank">Facebook</a>
+            <a href="Coming Soon" target="_blank">Instagram</a>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 ARC Group Investment. Tous droits réservés.
+    </footer>
+</body>
+</html>
